@@ -1,4 +1,4 @@
-# Hello, geeks! 👋
+## Hello, geeks! 👋
 
 I am Lyridas. I consider myself as a smart worker and determined team player. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, JavaScript and its frameworks.
 
